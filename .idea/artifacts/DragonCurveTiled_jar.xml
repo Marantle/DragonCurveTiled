@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DragonCurveTiled:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/</output-path>
+    <root id="archive" name="DragonCurveTiled.jar">
+      <element id="module-output" name="DragonCurveTiled" />
+    </root>
+  </artifact>
+</component>
